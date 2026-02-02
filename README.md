@@ -1,4 +1,4 @@
-# Hi 👋, I'm yuhongfeng
+# Hi👋, I'm yuhongfeng
 
 - 🌱 I'm currently learning **Data warehouse, llm**
 

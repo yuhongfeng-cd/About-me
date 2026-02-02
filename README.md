@@ -1,10 +1,8 @@
 # Hi 👋, I'm yuhongfeng
 
-- 🔭 I'm currently working on **job hunting**
+- 📫 How to reach me **yuhf2000@163.com**
 
 - 🌱 I'm currently learning **Data warehouse, llm**
-
-- 📫 How to reach me **yuhf2000@163.com**
 
 - ⚡ Fun fact **Badminton, billiards, running**
 

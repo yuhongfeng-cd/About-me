@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **yuhf2000@163.com**
 
-- ⚡ Fun fact **Badminton, billiards, running**
-
 - 👨‍💻 All of my projects are available at **[https://github.com/yuhongfeng-cd](https://github.com/yuhongfeng-cd)**
 
 <h3 align="left">Connect with me:</h3>

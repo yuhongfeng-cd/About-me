@@ -41,7 +41,9 @@
 <h3 align="left">在校期间的竞赛经历:</h3>
 
 - [“华为杯”中国研究生数学建模竞赛全国二等奖](https://github.com/yuhongfeng-cd/Huawei-Cup)
+  
 - [“泰迪杯”数据分析职业技能大赛全国一等奖](https://github.com/yuhongfeng-cd/Taidi-Cup)
+  
 - [“阿里云天池”太阳风暴识别和预警挑战赛全国TOP3](https://github.com/yuhongfeng-cd/Tianchi-Cup)
 
 <h3 align="left">掌握的专业技能:</h3>
